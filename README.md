@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <div>
  <p>
 
-I major in Software Engineering and Multimedia at Limkokwing University Cyberjaya, Malaysia. Currently I'm focusing on Web and application Development. I aim to inspire upcoming developers to realise their potential.
+I major in Software Engineering and Multimedia at Limkokwing University Cyberjaya, Malaysia. Currently I'm focusing on Web and application Development aiming to inspire upcoming developers to realise their potential.
 
 I am always on the lookout for new projects to work on and new people to collaborate with.I spend most of my time learning new concepts and empowering an online community of upcoming developers.
 
