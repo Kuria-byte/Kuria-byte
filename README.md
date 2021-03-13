@@ -43,7 +43,7 @@
 
  -->
 
-![Hi! I'm Emmanuel, a software engineer and artist in NYC.](header-intro.png) 
+![Hi! I'm Ian Kuria, a software engineer and innovator in Cyberjaya.] 
 
 <!-- 
 
@@ -61,7 +61,6 @@
 
  -->
 
-🔴 &nbsp;My pronouns are  **he** / **him** / **his**
 
 🟠 &nbsp;I'm looking for help with **Algorithms**.
 
@@ -69,9 +68,9 @@
 
 🟢 &nbsp;I'm currently learning **React Native** and **Next.js**.
 
-🔵 &nbsp;Ask me about dogs, playing cards, and paper-cut art.
+🔵 &nbsp;Ask me about psychology, food or humour.
 
-🟣 &nbsp;Fun Fact: Whoopi Goldberg and Jessica Lange own my art.
+<!--  🟣 &nbsp;Fun Fact: He . -->
 
 # 
 
@@ -90,7 +89,7 @@
 
 ![Project Demos](header-project-demos.png) 
 
-<a href="https://mod2-pets.herokuapp.com/"><img src="https://img.shields.io/badge/CozyNation-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white" height=30 width=100 alt="Cozy Nation Demo"> <a href="https://youtu.be/-SWHzutVxBE"><img src="https://img.shields.io/badge/CozyNation-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=30 width=100 alt="Cozy Nation Demo"> <a href="https://youtu.be/6e17LUQb2Dk"><img src="https://img.shields.io/badge/FlavorWorld-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=30 width=100 alt="FlavorWorld Demo"> <a href="https://youtu.be/qo_YDasFpkM"><img src="https://img.shields.io/badge/Bombastic-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=30 width=100 alt="Bombastic Demo">
+<a href="https:/https://fashion-store-tau.vercel.app/"><img src="https://img.shields.io/badge/Fashion-Store-yellow" height=30 width=100 alt="Fashion Store"> <a href="https://shaos-kitchen.netlify.app/"><img src="https://img.shields.io/badge/project-demo-orange" height=30 width=100 alt="Shao's Kitchen Demo"> <a href="https://socialrecipe-kuria-byte.vercel.app/"><img src="https://img.shields.io/badge/project-demo-orange" height=30 width=100 alt="Social Recipe Demo"> <a href="https://www.kmfoodscan.com/"><img src="https://img.shields.io/badge/project-demo-yellow" height=30 width=100 alt="Bombastic Demo">
 
 #
 
