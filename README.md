@@ -62,6 +62,13 @@ Hi! I'm Ian Kuria, a software engineer and innovator in Cyberjaya. -->
 • Alternatives to Photoshop: https://picsart.com/  and  https://www.canva.com/
 
  -->
+ 
+ <p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
+ <h2 align="center">Profile</h2>
+</p>
+
+### Hi there 👋 I am [Ian Kuria](https://kuriadev.tech/)
 
 
 🟠 &nbsp;I'm looking for help with **Entreprenuership**.
