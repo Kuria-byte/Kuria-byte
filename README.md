@@ -63,10 +63,12 @@ Hi! I'm Ian Kuria, a software engineer and innovator in Cyberjaya. -->
 
  -->
  
+ <!--
  <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
  <h2 align="center">Profile</h2>
 </p>
+-->
 
 ### Hi there 👋 I am [Ian Kuria](https://kuriadev.tech/)
 
@@ -130,7 +132,7 @@ PARSED PROJECT DEMO BADGES
 
 <h2> Let's  Connect </h2>
 
-<p> <a href="mailto:ianmwitumi@gmail.com"><img src="https://img.shields.io/badge/Discord-%238700f5.svg?&style=for-the-badge&logo=discord&logoColor=white" height=30 width=100 alt="Discord badge"> <a href="https://discord.gg/GcKkyAE"><img src="https://img.shields.io/badge/gmail-%23fd1745.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=30 width=100 alt="Gmail badge"> <a href="https://www.instagram.com/dear_code/"><img src="https://img.shields.io/badge/instagram-%23ff0077.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=30 width=100 alt="Instagram badge"> <a href="https://medium.com/@Kuria"><img src="https://img.shields.io/badge/medium-%238700f5.svg?&style=for-the-badge&logo=medium&logoColor=white" height=30 width=100 alt="Medium badge"> <a href="https://www.linkedin.com/in/ian-kuria-b91a1378/"><img src="https://img.shields.io/badge/linkedin-%230064e7.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30 width=100 alt="Linkedin badge"> <a href="https://twitter.com/_iankuria?lang=en"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=30 width=100 alt="Twitter badge"></a></p>
+<p> <a href="https://discord.gg/GcKkyAE"><img src="https://img.shields.io/badge/Discord-%238700f5.svg?&style=for-the-badge&logo=discord&logoColor=white" height=30 width=100 alt="Discord badge"> <a href="mailto:ianmwitumi@gmail.com"><img src="https://img.shields.io/badge/gmail-%23fd1745.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=30 width=100 alt="Gmail badge"> <a href="https://www.instagram.com/dear_code/"><img src="https://img.shields.io/badge/instagram-%23ff0077.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=30 width=100 alt="Instagram badge"> <a href="https://medium.com/@Kuria"><img src="https://img.shields.io/badge/medium-%238700f5.svg?&style=for-the-badge&logo=medium&logoColor=white" height=30 width=100 alt="Medium badge"> <a href="https://www.linkedin.com/in/ian-kuria-b91a1378/"><img src="https://img.shields.io/badge/linkedin-%230064e7.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30 width=100 alt="Linkedin badge"> <a href="https://twitter.com/_iankuria?lang=en"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=30 width=100 alt="Twitter badge"></a></p>
 
 
 
