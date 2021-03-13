@@ -199,6 +199,8 @@ PARSED GITHUB STATS CARDS
 </p>
 
 
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kuria-byte.kuria-byte)
+
 <!-- 
 
 *** TECHNOLOGIES SECTION ***
