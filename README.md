@@ -87,7 +87,7 @@
 -->
 
 
-![Project Demos](header-project-demos.png) 
+<h2> Project Demos </h2>
 
 <a href="https:/https://fashion-store-tau.vercel.app/"><img src="https://img.shields.io/badge/Fashion-Store-yellow" height=30 width=100 alt="Fashion Store"> <a href="https://shaos-kitchen.netlify.app/"><img src="https://img.shields.io/badge/project-demo-orange" height=30 width=100 alt="Shao's Kitchen Demo"> <a href="https://socialrecipe-kuria-byte.vercel.app/"><img src="https://img.shields.io/badge/project-demo-orange" height=30 width=100 alt="Social Recipe Demo"> <a href="https://www.kmfoodscan.com/"><img src="https://img.shields.io/badge/project-demo-yellow" height=30 width=100 alt="Bombastic Demo">
 
@@ -142,7 +142,7 @@ PARSED PROJECT DEMO BADGES
 
 PARSED SOCIAL MEDIA BADGES
 
-<a href="https://www.youtube.com/channel/UCQdqFg-_J83jn9xJRd1W3tQ/videos"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=30 width=100 alt="Youtube badge"> 
+<a href="https://www.youtube.com/channel/UCQdqFg-_J83jn9xJRd1W3tQ/videos"><img src="https://img.shields.io/badge/twitter-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=30 width=100 alt="Youtube badge"> 
 
 <a href="mailto:emjose@gmail.com"><img src="https://img.shields.io/badge/gmail-%23fd1745.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=30 width=100 alt="Gmail badge"> 
 
