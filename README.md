@@ -198,6 +198,7 @@ PARSED GITHUB STATS CARDS
 <img src ="https://img.shields.io/badge/c%20sharp%20-%23CC0000.svg?&style=for-the-badge&logo=csharp&logoColor=white" />
 </p>
 
+#
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kuria-byte.kuria-byte)
 
