@@ -65,7 +65,7 @@ Hi! I'm Ian Kuria, a software engineer and innovator in Cyberjaya.
 
 🟠 &nbsp;I'm looking for help with **Algorithms**.
 
-🟡 &nbsp;I'm currently working on <a href="https://www.100daysofcode.com/">**#100DaysOfCode**.</a>
+🟡 &nbsp;I'm currently working on <a href="https://www.100daysofcode.com/">**#Food Ordering System**.</a>
 
 🟢 &nbsp;I'm currently learning **React Native** and **Next.js**.
 
@@ -87,12 +87,11 @@ Hi! I'm Ian Kuria, a software engineer and innovator in Cyberjaya.
 
 -->
 
-
-<h2> Project Demos </h2>
-
+<!--
 <a href="https:/https://fashion-store-tau.vercel.app/"><img src="https://img.shields.io/badge/Fashion-Store-yellow" height=30 width=100 alt="Fashion Store"> <a href="https://shaos-kitchen.netlify.app/"><img src="https://img.shields.io/badge/project-demo-orange" height=30 width=100 alt="Shao's Kitchen Demo"> <a href="https://socialrecipe-kuria-byte.vercel.app/"><img src="https://img.shields.io/badge/project-demo-orange" height=30 width=100 alt="Social Recipe Demo"> <a href="https://www.kmfoodscan.com/"><img src="https://img.shields.io/badge/project-demo-yellow" height=30 width=100 alt="Bombastic Demo">
 
 #
+-->
 
 <!-- 
 
