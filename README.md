@@ -73,7 +73,6 @@ Hi! I'm Ian Kuria, a software engineer and innovator in Cyberjaya.
 
 <!--  🟣 &nbsp;Fun Fact: He . -->
 
-# 
 
 <!-- 
 
