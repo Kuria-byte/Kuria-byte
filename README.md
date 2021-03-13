@@ -4,17 +4,7 @@
 
 • All Github READMEs use Markdown formatting: https://guides.github.com/features/mastering-markdown/
 
-• Youtube Resource A: https://youtu.be/OoncKvcfs0M
 
-• Youtube Resource B (Part 1): https://youtu.be/ECuqb5Tv9qI
-
-• Youtube Resource B (Part 2): https://youtu.be/n6d4KHSKqGk
-
-• The particle banner and gradient backgrounds were inspired by Adam Alston's github profile: https://github.com/adamalston
-
-• Adam's github profile is in this curated list of Github Profiles: https://awesomegithubprofile.tech/
-
-• The README is not importing the stylesheet.
 
 -->
 
@@ -23,26 +13,7 @@
 
 <!-- 
 
-*** NAME BANNER ***
 
-• Created with tsParticles: https://particles.js.org/ 
-
-• Recorded a 9 second demo of the particle effect.
-
-• Converted demo video into a GIF with GIPHY Capture: https://apps.apple.com/us/app/giphy-capture-the-gif-maker/id668208984?mt=12
-
-• Resized GIF to be under 10MB (the size limit of GIF files for Github READMEs)
-
-• Blog Resource 1: https://josephcardillo.medium.com/how-to-add-gifs-to-your-github-readme-89c74da2ce47
-
-• Blog Resource 2: https://dev.to/kelli/demo-your-app-in-your-github-readme-with-an-animated-gif-2o3c
-
-• Github Emoji Cheat Sheet 1: https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
-
-• Github Emoji Cheat Sheet 2: https://gist.github.com/rxaviers/7360908
-
-
- -->
 
 <!-- 
 Hi! I'm Ian Kuria, a software engineer and innovator in Cyberjaya. -->
@@ -265,12 +236,6 @@ PARSED TECHNOLOGIES BADGES
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 
-<!-- 
-[![Ruby Badge](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&labelColor=black&logo=ruby&logoColor=CC342D)](#)
--->
-<!-- 
-[![Ruby on Rails Badge](https://img.shields.io/badge/-Rails-CC0000?style=for-the-badge&labelColor=black&logo=rails&logoColor=CC0000)](#) 
--->
 
 
 <!-- 
@@ -284,11 +249,7 @@ https://github.com/abhisheknaiidu/awesome-github-profile-readme/#tools
 
 
 <!-- 
-<a href="https://emjose.github.io/quote-generator/"><img alt="Day 1" src="https://img.shields.io/badge/-Day 01-ff0027?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/color-flipper/"><img alt="Day 2" src="https://img.shields.io/badge/-Day 02-f70063?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/progress-bar/"><img alt="Day 3" src="https://img.shields.io/badge/-Day 03-e20f79?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/expand-search-one/"><img alt="Day 4" src="https://img.shields.io/badge/-Day 04-c91f8c?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/expand-search-two/"><img alt="Day 4" src="https://img.shields.io/badge/-Day 04-a02bac?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/expanding-cards/"><img alt="Day 5" src="https://img.shields.io/badge/-Day 05-8436c3?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/blurry-loading/"><img alt="Day 6" src="https://img.shields.io/badge/-Day 06-7140d3?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/password-strength-background/"><img alt="Day 6" src="https://img.shields.io/badge/-Day 06-5c4ce3?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/kinetic-loader-1/"><img alt="Day 7" src="https://img.shields.io/badge/-Day 07-5151e7?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/kinetic-loader-2/"><img alt="Day 7" src="https://img.shields.io/badge/-Day 07-4256ed?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/analog-clock-1/"><img alt="Day 8" src="https://img.shields.io/badge/-Day 08-ff0027?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/analog-clock-2/"><img alt="Day 8" src="https://img.shields.io/badge/-Day 08-f70063?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/vertical-cards/"><img alt="Day 9" src="https://img.shields.io/badge/-Day 09-e20f79?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/coffee-counter/"><img alt="Day 10" src="https://img.shields.io/badge/-Day 10-c91f8c?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/range-slider/"><img alt="Day 11" src="https://img.shields.io/badge/-Day 11-a02bac?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/block-animation/"><img alt="Day 12" src="https://img.shields.io/badge/-Day 12-8436c3?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/heart-animation/"><img alt="Day 12" src="https://img.shields.io/badge/-Day 12-7140d3?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/opening-crawl/"><img alt="Day 13" src="https://img.shields.io/badge/-Day 13-5c4ce3?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/form-validation/"><img alt="Day 14" src="https://img.shields.io/badge/-Day 14-5151e7?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/parallax-background/"><img alt="Day 15" src="https://img.shields.io/badge/-Day 15-4256ed?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/video-scroll-one/"><img alt="Day 16" src="https://img.shields.io/badge/-Day 16-ff0027?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/video-scroll-two/"><img alt="Day 16" src="https://img.shields.io/badge/-Day 16-f70063?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/parallax-scroll/"><img alt="Day 17" src="https://img.shields.io/badge/-Day 17-e20f79?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/split-landing-page/"><img alt="Day 18" src="https://img.shields.io/badge/-Day 18-c91f8c?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/calculator-react/"><img alt="Day 19" src="https://img.shields.io/badge/-Day 19-a02bac?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/calculator-vuejs/"><img alt="Day 19" src="https://img.shields.io/badge/-Day 19-8436c3?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/calculator-tilt/"><img alt="Day 19" src="https://img.shields.io/badge/-Day 19-7140d3?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/kboard/"><img alt="Day 20" src="https://img.shields.io/badge/-Day 20-5c4ce3?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/slingshot/"><img alt="Day 21" src="https://img.shields.io/badge/-Day 21-5151e7?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/toast-notifications/"><img alt="Day 22" src="https://img.shields.io/badge/-Day 22-4256ed?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/budapest-calendar/"><img alt="Day 23" src="https://img.shields.io/badge/-Day 23-ff0027?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/mousetrail-space/"><img alt="Day 24" src="https://img.shields.io/badge/-Day 24-f70063?style=for-the-badge&logo=day" height=30 width=79/> <a href="https://emjose.github.io/mousetrail-wandavision/"><img alt="Day 25" src="https://img.shields.io/badge/-Day 25-e20f79?style=for-the-badge&logo=day" height=30 width=79/>
- 
 
-
-<!-- <a href=""><img alt="Day 26" src="https://img.shields.io/badge/-Day -c91f8c?style=for-the-badge&logo=day" height=30 width=79/>
 
 
 
