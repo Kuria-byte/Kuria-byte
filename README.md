@@ -261,7 +261,6 @@ PARSED TECHNOLOGIES BADGES
 
 https://github.com/abhisheknaiidu/awesome-github-profile-readme/#tools
 
--->
 
 
 
