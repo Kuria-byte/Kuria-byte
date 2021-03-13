@@ -44,7 +44,8 @@
 
  -->
 
-Hi! I'm Ian Kuria, a software engineer and innovator in Cyberjaya.
+<!-- 
+Hi! I'm Ian Kuria, a software engineer and innovator in Cyberjaya. -->
 
 <!-- 
 
@@ -63,9 +64,9 @@ Hi! I'm Ian Kuria, a software engineer and innovator in Cyberjaya.
  -->
 
 
-🟠 &nbsp;I'm looking for help with **Algorithms**.
+🟠 &nbsp;I'm looking for help with **Entreprenuership**.
 
-🟡 &nbsp;I'm currently working on <a href="https://www.100daysofcode.com/">**#Food Ordering System**.</a>
+🟡 &nbsp;I'm currently working on <a href="https://www.kmfoodscan.com/">**Food Ordering System**.</a>
 
 🟢 &nbsp;I'm currently learning **React Native** and **Next.js**.
 
