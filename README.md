@@ -35,11 +35,11 @@
 
 🟠 &nbsp;I'm looking for help with **Entreprenuership & Community Management**.
 
-🟡 &nbsp;I'm currently working on <a href="https://www.pkfoodstreet.com/">**Native Food Ordering Application for FoodStreet**.</a>
+🟡 &nbsp;I'm currently working on <a href="https://www.wapishi.online/">**Wapishi**.</a>
 
 🟢 &nbsp;I'm currently learning **React Native** and **Next.js**.
 
-🔵 &nbsp;Ask me about psychology, food , animal kingdom.
+🔵 &nbsp;Ask me about psychology, food & agriculture .
 
 
 <!--  🟣 &nbsp;Fun Fact: He . -->
