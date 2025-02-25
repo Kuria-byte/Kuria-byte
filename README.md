@@ -35,11 +35,11 @@
 
 🟠 &nbsp;I'm looking for help with **Entreprenuership & Community Management**.
 
-🟡 &nbsp;I'm currently working on <a href="https://www.wapishi.online/">**Wapishi**.</a>
+🟡 &nbsp;I'm currently working on <a href="https://github.com/Kuria-byte/JobExel">**Job Exel**.</a>
 
-🟢 &nbsp;I'm currently learning **React Native** and **Next.js**.
+🟢 &nbsp;I'm currently learning **AI agents, Motion UI, and Data Analytics**.
 
-🔵 &nbsp;Ask me about psychology, food & agriculture .
+🔵 &nbsp;Ask me about AI, psychology, development, and regenerative agriculture.
 
 
 <!--  🟣 &nbsp;Fun Fact: He . -->
