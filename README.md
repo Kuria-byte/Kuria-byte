@@ -35,7 +35,7 @@
 
 🟠 &nbsp;I'm looking for help with **Entreprenuership & Community Management**.
 
-🟡 &nbsp;I'm currently working on <a href="https://github.com/Kuria-byte/JobExel">**Job Exel**.</a>
+🟡 &nbsp;I'm currently working on <a href="https://github.com/Kuria-byte/JobExel">**Exel**.</a> & <a href="https://govt-dashboard.vercel.app/">**KenyaWatch**.</a>
 
 🟢 &nbsp;I'm currently learning **AI agents, Motion UI, and Data Analytics**.
 
