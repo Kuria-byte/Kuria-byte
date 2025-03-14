@@ -33,7 +33,7 @@
 ### Hi there 👋 I am [Ian Kuria](https://kuriadev.tech/)
 
 
-🟠 &nbsp;I'm looking for help with **Entreprenuership & Community Management**.
+
 
 🟡 &nbsp;I'm currently working on <a href="https://github.com/Kuria-byte/JobExel">**Exel**.</a> & <a href="https://govt-dashboard.vercel.app/">**KenyaWatch**.</a>
 
